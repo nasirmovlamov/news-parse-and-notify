@@ -1,0 +1,21 @@
+{
+    "name": "get-latest-news",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+      "@indutny/simple-windows-notifications": "^2.0.7",
+      "axios": "^1.7.9",
+      "cheerio": "^1.0.0",
+      "node-notifier": "^10.0.1",
+      "nodemon": "^3.1.9"
+    }
+  }
+  
